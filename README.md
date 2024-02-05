@@ -1,5 +1,17 @@
-# neural trajectory model
+# Neural Trajectory Model
 #### A neural trajectory model using PyTorch 
+
+## Installation
+a. Clone this repository.
+```shell
+git clone https://github.com/laser2099/neural-trajectory-model.git
+```
+
+b. Install the dependent libraries as follows:
+
+```
+pip install -r requirements.txt 
+```
 
 ## How To Run?
 
