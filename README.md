@@ -31,4 +31,15 @@ Once training has finished or you've achieved satisfactory results, the checkpoi
 ```
 python test_neural_traj.py --mesh-path {your path to store the mesh} --test-data {your test data path} --model-path {the checkpoit path} --num-agents { number of agents}
 ```
+### Bibtex
+If you find this useful, please cite the paper!
+<pre id="codecell0">@misc{yu2024neural,
+&nbsp;title={Neural Trajectory Model: Implicit Neural Trajectory Representation for Trajectories Generation}, 
+&nbsp;author={Zihan Yu and Yuqing Tang},
+&nbsp;year={2024},
+&nbsp;eprint={2402.01254},
+&nbsp;archivePrefix={arXiv},
+&nbsp;primaryClass={cs.RO},
+} </pre>
+
 
