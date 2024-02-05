@@ -1,6 +1,6 @@
 # Neural Trajectory Model
-#### A neural trajectory model using PyTorch 
-
+## A neural trajectory model using PyTorch 
+This is a repo of our arXiv pre-print [Neural-Trajectory-Model](http://arxiv.org/abs/2402.01254)
 ## Installation
 a. Clone this repository.
 ```shell
